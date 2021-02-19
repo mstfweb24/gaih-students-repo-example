@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/logo.png)
+![](img/mstfgrafik.jpg)
 
 **Course Date:** 15.02.2021-19.02.2021  
 **Name:** Moustafa  
