@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021-19.02.2021  
-**Name:** MOUSTAFA  
+**Name:** Moustafa  
 **Surname:** CHAZTOGLOU  
 **Email:** mstfweb24@gmail.com  
 
